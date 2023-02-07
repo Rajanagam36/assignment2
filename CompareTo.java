@@ -10,4 +10,3 @@ public class CompareTo {
             System.out.println(s1.compareTo(s4));//-1 because "l" is 1 times lower than "m"
             System.out.println(s1.compareTo(s5));//2 because "h" is 2 times greater than "f"
         }}
-
