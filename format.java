@@ -1,4 +1,4 @@
-public class format{
+public class format {
     public static void main(String args[]){
         String name="sonoo";
         String sf1=String.format("name is %s",name);
